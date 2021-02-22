@@ -6,7 +6,7 @@
 > 1. 서론
 
 > 2. 프로세스 관리
-[프로세스 관리](OperatingSystem/src/os2/process/management.Test.java)
+[프로세스 관리](OperatingSystem/src/os2/process/management/Test.java)
 
 > 3. 프로세스 동기화
 

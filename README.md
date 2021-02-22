@@ -3,11 +3,11 @@
 
 ##목차
 
-> 1. 서론
+##### 1. 서론
 
-> 2. 프로세스 관리
+##### 2. 프로세스 관리
 
-[예제) 프로세스 관리:](OperatingSystem/src/os2/process/management/Test.java)
+[예제) 프로세스 관리: A,B를 Thread를 이용해서 찍기](OperatingSystem/src/os2/process/management/Test.java)
 
 > 3. 프로세스 동기화
 

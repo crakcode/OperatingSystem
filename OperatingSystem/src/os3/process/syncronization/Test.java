@@ -1,4 +1,4 @@
-package operating.system.syncronization;
+package os3.process.syncronization;
 
 
 public class Test {

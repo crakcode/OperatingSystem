@@ -1,4 +1,4 @@
-package operating.system.thread;
+package os2.process.management;
 
 public class Test {
 
